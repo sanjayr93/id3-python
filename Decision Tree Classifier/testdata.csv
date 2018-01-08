@@ -1,0 +1,4 @@
+Alternate,Bar,Fri/Sat,Hungry,Patrons,Price,Raining,Reservation,Type,WaitEstimate,WillWait
+Yes,No,Yes,No,Full,$$$,No,Yes,French,>60
+No,Yes,No,Yes,Some,$$,Yes,Yes,Italian,0-10
+No,Yes,No,No,None,$,Yes,No,Burger,0-10
